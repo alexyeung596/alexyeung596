@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexyeung596
-- 👀 I’m interested in drawing, cooking and learning new language.
-- 🌱 I’m currently learning Javascript and Ruby.
+- 👀 I’m interested in learning new languages.
+- 🌱 I’m currently learning Ruby.
 - 💞️ I’m looking to collaborate on a retailing platform.
 - 📫 Reach me on zitayeung596@gmail.com
 
